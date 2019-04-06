@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554509196 source:c:\users\carmen leao\desktop\clase4-master\trabajo practico numero 1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TP1.h"
+
+1554506156 c:\users\carmen leao\desktop\clase4-master\trabajo practico numero 1\tp1\tp1.h
+
+1554510983 source:c:\users\carmen leao\desktop\clase4-master\trabajo practico numero 1\tp1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	"TP1.h"
+
